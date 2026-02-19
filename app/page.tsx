@@ -5,6 +5,8 @@ export default function Home() {
 
       <p>Bienvenido a tu aplicación de recetas inteligentes.</p>
 
+      <p>Deploy test</p>
+
       <ul>
         <li>📖 Crear recetas</li>
         <li>🛒 Lista de la compra automática</li>
